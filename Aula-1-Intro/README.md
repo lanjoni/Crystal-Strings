@@ -6,4 +6,20 @@ Para instalar o Crystal em sua máquina acesse o <a href="https://crystal-lang.o
 
 Neste diretório você encontra todos os códigos demonstrados em aula, com um detalhamento nos comentários de cada um...
 
+Para executar o seu arquivo Crystal (extensão .cr) no terminal, basta executar um dos seguintes comandos:
+
+```md
+crystal arquivo.cr
+```
+ou 
+```md
+crystal run arquivo.cr
+```
+
+Caso queira mais detalhes sobre o funcionamento do comando, basta digitar:
+
+```md
+crystal --help
+```
+
 Espero que você tenha aprendido bastante com a aula, agradeço demais pelo apoio! Muito obrigado! 😉
